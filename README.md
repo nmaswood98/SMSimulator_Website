@@ -3,7 +3,7 @@
 This is the repo for the website of the stock market simulator.
 
 ## Available Scripts
-
+d
 In the project directory, you can run:
 
 ### `npm start`
